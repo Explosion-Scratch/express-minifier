@@ -9,7 +9,8 @@ app.use(minify(app));
 ```
 done!
 
-** But wait I want options 🥺 **
+**But wait I want options 🥺**
+
 okie doke:
 ```js
 const minify = require("express-minify");

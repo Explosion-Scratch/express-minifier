@@ -5,12 +5,23 @@
   "main": "index.js",
   "keywords": [],
   "author": "Explosion-Scratch",
-  "license": "ISC",
+  "license": "GPL-3.0",
   "dependencies": {
     "clean-css": "^5.1.2",
     "express": "^4.17.1",
     "html-minifier": "^4.0.0",
     "mime": "^2.5.2",
     "terser": "^5.7.0"
-  }
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/explosion-scratch/express-minifier.git"
+  },
+  "bugs": {
+    "url": "https://github.com/explosion-scratch/express-minifier/issues"
+  },
+  "homepage": "https://github.com/explosion-scratch/express-minifier#readme"
 }

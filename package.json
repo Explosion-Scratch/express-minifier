@@ -1,0 +1,16 @@
+{
+  "name": "express-minifier",
+  "version": "1.0.0",
+  "description": "Automatically minify express files!",
+  "main": "index.js",
+  "keywords": [],
+  "author": "Explosion-Scratch",
+  "license": "ISC",
+  "dependencies": {
+    "clean-css": "^5.1.2",
+    "express": "^4.17.1",
+    "html-minifier": "^4.0.0",
+    "mime": "^2.5.2",
+    "terser": "^5.7.0"
+  }
+}

@@ -1,6 +1,6 @@
 {
   "name": "express-minifier",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Automatically minify express files!",
   "main": "index.js",
   "keywords": [],
